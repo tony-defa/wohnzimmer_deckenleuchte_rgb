@@ -1,0 +1,10 @@
+{
+  "domain": "wohnzimmer_deckenleuchte_rgb",
+  "name": "Wohnzimmer Deckenleuchte RGB",
+  "version": "1.0.0",
+  "config_flow": false,
+  "documentation": "https://github.com/tony-defa",
+  "dependencies": [],
+  "codeowners": ["@tony-defa"],
+  "requirements": []
+}

@@ -1,0 +1,1 @@
+"""Wohnzimmer Deckenleuchte RGB Integration."""
